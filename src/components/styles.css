@@ -1,0 +1,36 @@
+
+
+
+#F1{
+    margin-left: 900px;
+}
+
+#F2{
+   width: 1600px;
+}
+
+#F3{
+    margin-left: 20px;
+}
+
+#F4{
+    margin-left: 700px;
+}
+
+#F5{
+    margin-top: 10px;
+}
+
+#F6{
+    display: flex;
+   margin-left: 300px;
+}
+
+#F7{
+    width: 200px;
+    height: 50px;
+    border-radius: 10%;
+    border-color: 2px solid red;
+    background-color: white;
+    margin-left: 220px;
+}
